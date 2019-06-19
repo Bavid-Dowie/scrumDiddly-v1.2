@@ -1,0 +1,22 @@
+header  {
+    color: #F26708;
+    background-color: #090360;
+    width: 100vw;
+    text-align: center;
+    font-family: 'Shadows Into Light', cursive;
+    font-size: 3vw;
+}
+
+body {
+    /* border: 5em solid #8b8a96; */
+    background: #72717c;
+    font-family: 'Shadows Into Light', cursive;
+    justify-content: center;
+    width: 100vw;
+    height: 100vh;
+}
+
+*{
+    padding: 0;
+    margin: 0;
+}
